@@ -97,7 +97,3 @@ For professional inquiries, collaborations or technical discussions:
 - GitHub — https://github.com/Talbot-dev  
 
 ---
-
-Building scalable backend systems and intelligent software with architectural depth and long-term vision.
-
-**Founder — Talbot Systems Architectures**
