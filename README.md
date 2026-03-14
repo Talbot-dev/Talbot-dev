@@ -1,4 +1,4 @@
-# Hello 👋, I'm Juan Castillo Acevedo  
+# Hello, I'm Juan Castillo Acevedo  
 ### Backend Developer | AI Engineer | Scalable Systems Builder
 
 ---
@@ -13,7 +13,7 @@ I don’t just implement features — I engineer systems.
 
 ---
 
-## Core Expertise
+## 🌐 Core Expertise
 
 ```json
 {
