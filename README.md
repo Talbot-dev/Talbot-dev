@@ -15,28 +15,31 @@ I don’t just implement features — I engineer systems.
 
 ## Core Expertise
 
-### 🌐 Backend Engineering
-- Design and implementation of scalable RESTful APIs  
-- Microservices architecture with clear domain boundaries  
-- Secure authentication and authorization strategies (JWT-based systems)  
-- Relational and NoSQL database modeling with performance optimization  
-- High-availability and performance-oriented backend development  
-
-### 🤖 Artificial Intelligence Integration
-- NLP-powered backend services  
-- AI model inference deployment within REST architectures  
-- Structured pipelines for intelligent response systems  
-- Backend infrastructure for AI-driven applications  
-
-### ⚙️ Systems & Infrastructure
-- Containerized environments with Docker  
-- Kubernetes fundamentals for orchestration and scaling  
-- CI/CD pipeline concepts for automated delivery  
-- Linux-based development and deployment workflows  
-
-
----
-
+```json
+{
+  "core_expertise": {
+    "backend_engineering": [
+      "Design and implementation of scalable RESTful APIs",
+      "Microservices architecture with clear domain boundaries",
+      "Secure authentication and authorization strategies (JWT-based systems)",
+      "Relational and NoSQL database modeling with performance optimization",
+      "High-availability and performance-oriented backend development"
+    ],
+    "artificial_intelligence_integration": [
+      "NLP-powered backend services",
+      "AI model inference deployment within REST architectures",
+      "Structured pipelines for intelligent response systems",
+      "Backend infrastructure for AI-driven applications"
+    ],
+    "systems_and_infrastructure": [
+      "Containerized environments with Docker",
+      "Kubernetes fundamentals for orchestration and scaling",
+      "CI/CD pipeline concepts for automated delivery",
+      "Linux-based development and deployment workflows"
+    ]
+  }
+}
+```
 ## 🖥️ Technology Stack
 
 <p align="left">
