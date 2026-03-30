@@ -9,8 +9,6 @@ Backend engineer specialized in Java (Spring Boot) and Python, building scalable
 I design architectures that endure — systems structured for clarity, performance and long-term evolution.  
 My work integrates clean architecture principles, distributed systems thinking and practical AI capabilities into real-world, production-ready applications.
 
-I don’t just implement features — I engineer systems.
-
 ---
 
 ## 🌐 Core Expertise
