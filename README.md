@@ -1,4 +1,4 @@
-# Hello, I'm Juan Castillo Acevedo  
+# Hello, I'm Juan Castillo Acevedo 
 ### Backend Developer | AI Engineer | Scalable Systems Builder
 
 ---
@@ -88,10 +88,5 @@ Good software is not just functional — it is structured.
 
 Open to backend engineering roles, AI-driven product development and high-impact technical collaborations.
 
-For professional inquiries, collaborations or technical discussions:
-
-- LinkedIn — https://www.linkedin.com/in/juan-manuel-castillo-acevedo-581ab3348/  
-- X — https://x.com/juanitodev31  
-- GitHub — https://github.com/Talbot-dev  
-
+Thanks for visiting my new github profile!
 ---
